@@ -1,7 +1,7 @@
 import './App.css';
 import VideoCard from './Video-Card';
 import { useState, useEffect } from 'react';
-import db from './Firebase';
+import db from './firebase';
 
 function App() {
 
